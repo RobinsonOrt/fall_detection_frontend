@@ -1,0 +1,22 @@
+.nav-header{
+    width: 100%;
+    background-color:#f0ebeb;
+    box-shadow: black;
+    border-radius: 15px;
+    width: 100%;
+    color: rgb(238, 110, 110);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+}
+.nav-p{
+    font-size: x-large;
+    color: black;
+    margin-left: 2%;
+}
+
+.nav-boton{
+    margin-right: 2%;
+}
